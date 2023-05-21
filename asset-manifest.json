@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FoofOrderingApp/static/css/main.9ba65fa6.css",
+    "main.js": "/FoofOrderingApp/static/js/main.2b57d6ae.js",
+    "static/media/meals.jpg": "/FoofOrderingApp/static/media/meals.959e8e498854424c0920.jpg",
+    "index.html": "/FoofOrderingApp/index.html",
+    "main.9ba65fa6.css.map": "/FoofOrderingApp/static/css/main.9ba65fa6.css.map",
+    "main.2b57d6ae.js.map": "/FoofOrderingApp/static/js/main.2b57d6ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba65fa6.css",
+    "static/js/main.2b57d6ae.js"
+  ]
+}
