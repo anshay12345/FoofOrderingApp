@@ -1,0 +1,16 @@
+1: Search about {props.children}
+2: toFixed in js
+3: <input id={props.input.id} {...props.input}/> in Input.js file:
+--> {...props.input} : This will make sure that whatever we receive as props in props.input will be added here in the input tag.
+for ex: 
+props.input: {type: "text", id: "id"}, then it will become <input id={props.input.id} {...props.input} type="text"/> 
+
+4: Learn abount React Portal
+5: Learn about reduce() method
+6: inorder to use ref on the custom component, wrap the base html component with the React.forwardRef as done in the UI/Input.js
+and then pass ref along with the props and then assign ref={ref} in the input element.
+
+7: amountInputRef.current.value is used for accessing the value entered in the input tag using "ref", and this value will always be a string,
+now matter what typeof the data was entered.
+
+8: Learn about bind() function
